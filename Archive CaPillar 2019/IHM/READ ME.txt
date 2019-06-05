@@ -1,0 +1,7 @@
+Sous Windows avec Anaconda3, pour passer de l'ui créé par QT Designer à un fichier.py, entrer cmd dans la barre recherche du dossier, puis entrer la commande:
+
+C:\Users\hstov\Anaconda3\python -m PyQt5.uic.pyuic -x "C:\Users\hstov\Documents\CapillarProject\IHM\IHM.ui" -o "C:\Users\hstov\Documents\CapillarProject\IHM\IHM.py"
+
+(Remplacer hstov par votre nom d'utilisateur)
+
+

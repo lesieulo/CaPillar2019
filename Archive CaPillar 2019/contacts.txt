@@ -1,0 +1,5 @@
+Simon Queyrut: simon.queyrut@ensta-bretagne.org (moteurs, optique)
+Rim Abdallah: rim.abdallah@ensta-bretagne.org (moteurs, proto)
+Rami Duyé: rami.duye@ensta-bretagne.org (proto)
+Henri Stoven: henri.stoven@ensta-bretagne.org (proto)
+Louis Lesieur: louis.lesieur@ensta-bretagne.org (image)
